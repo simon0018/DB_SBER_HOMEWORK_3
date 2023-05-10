@@ -25,4 +25,5 @@
 ![7](https://github.com/simon0018/DB_SBER_HOMEWORK_3/assets/89707757/d4a48802-f434-4b97-860f-bbdb492a128f)
 ![8](https://github.com/simon0018/DB_SBER_HOMEWORK_3/assets/89707757/01cc964f-7fe0-4bbf-8bcd-34142f12548b)
 
-##
+## Итог
+ Время уваеличивается в разы(1.5-2) на redis-cluster по сравнению с Redis, т к распределение по разным узлам требует дополнительного времени.
